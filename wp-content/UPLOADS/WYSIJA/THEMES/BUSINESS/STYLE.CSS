@@ -1,0 +1,54 @@
+/*
+Theme Name: Business
+Description: This is the most downloaded theme when Wysija launched in 2011. Soon to become a classic?
+Author: ArtCore
+Author URI: http://artcore-illustrations.de/
+Author Email: artcorehro@googlemail.com
+Tags: monochrome, white
+
+Note: the styles below offer all the possibilities of Wysija. The plugin won't recognize any additional styles if you add them.
+
+*/
+html {
+    background-color: #ffffff; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: transparent; /* can be transparent */
+}
+body {
+    color:#333333;
+    font-family: "Arial";
+    font-size: 13px;
+    background-color: transparent; /* can be transparent */
+}
+footer {
+    background-color: transparent; /* can be transparent */
+}
+h1 {
+    color: #333333;
+    font-family: "Times New Roman";
+    font-size: 36px;
+}
+h2 {
+    color: #333333;
+    font-family: "Times New Roman";
+    font-size: 30px;
+}
+h3 {
+    color: #333333;
+    font-family: "Times New Roman";
+    font-size: 24px;
+}
+a {
+    color: #333333;
+    text-decoration:underline;
+}
+unsubscribe {
+    color:#000000;
+}
+viewbrowser {
+	font-family:'Arial';
+	font-size:11px;
+	color:#000000;
+}

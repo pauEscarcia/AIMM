@@ -1,0 +1,54 @@
+/*
+Theme Name: Sugar
+Description: Sugar. Salt. Pepper. It's on the table.
+Author: Skipp
+Author URI: http://themeforest.net/user/aleskipp
+Author Email: alexis@skipp.ca
+Tags: grey, professional
+
+Note: the styles below offer all the possibilities of Wysija. The plugin won't recognize any additional styles if you add them.
+
+*/
+html {
+    background-color: #ffffff; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: transparent; /* can be transparent */
+}
+body {
+    color:#575757;
+    font-family: "Arial";
+    font-size: 12px;
+    background-color: transparent; /* can be transparent */
+}
+footer {
+    background-color: transparent; /* can be transparent */
+}
+h1 {
+    color: #6391bb;
+    font-family: Arial;
+    font-size: 30px;
+}
+h2 {
+    color: #6391bb;
+    font-family: Arial;
+    font-size: 22px;
+}
+h3 {
+    color: #4a4b4b;
+    font-family: Arial;
+    font-size: 18px;
+}
+a {
+    color: #6391bb;
+    text-decoration:underline;
+}
+unsubscribe {
+    color:#4a4b4b;
+}
+viewbrowser {
+	font-family:'Arial';
+	font-size:11px;
+	color:#4a4b4b;
+}
